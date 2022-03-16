@@ -25,45 +25,7 @@ const About = () => {
   return (
     <Layout>
         <div className="bgcolor1">
-        <Container>
-          <Row className="pl-10">
-            <h1 className="font-face-aleo-h pt-5">Current openings</h1>
-            <div className="text-center "><img src={shape} className="img-fluid1" alt="Responsive image" ></img></div>
-            <h4 className="font-face-mulish-sh">We look forward to seeing your application!</h4>
-          </Row>
-        </Container>
-        <Row >
-          <Col   >
-            <button onclick="myFunction()" className="font-face-mulish-h mt-4 ">Front-end</button>
-            {/* <button className="font-face-mulish-h mt-4">Back-end</button>
-            <button className="font-face-mulish-h mt-4">Mobile application</button>
-            <button className="font-face-mulish-h mt-4">Design</button> */}
-          </Col>
-          <Col >
-          <div id="myDIV">
-              <h1 >dasfdsfa</h1>
-               
         
-            
-            {/* <h4 className="font-face-mulish-sh1 mt-4">Frontend UI Developer</h4>
-            <h4 className="font-face-mulish-sh2 mt-4">Proficient understanding of web markup, including HTML5, CSS3 Experience in Bootstrap, Media Query</h4>
-            <h4 className="font-face-mulish-sh1 mt-4">Frontend UI Developer</h4>
-            <h4 className="font-face-mulish-sh2 mt-4">Proficient understanding of web markup, including HTML5, CSS3 Experience in Bootstrap, Media Query</h4>
-            <h4 className="font-face-mulish-sh1 mt-4">Frontend UI Developer</h4>
-            <h4 className="font-face-mulish-sh2 mt-4">Proficient understanding of web markup, including HTML5, CSS3 Experience in Bootstrap, Media Query</h4>
-            <h4 className="font-face-mulish-sh1 mt-4">Frontend UI Developer</h4>
-            <h4 className="font-face-mulish-sh2 mt-4">Proficient understanding of web markup, including HTML5, CSS3 Experience in Bootstrap, Media Query</h4>
-            <h4 className="font-face-mulish-sh1 mt-4">Frontend UI Developer</h4>
-            <h4 className="font-face-mulish-sh2 mt-4">Proficient understanding of web markup, including HTML5, CSS3 Experience in Bootstrap, Media Query</h4> */}
-            
-          </div>
-          
-          </Col>
-
-        </Row>
-        <Helmet>
-          <script src={withPrefix('script.js')} type="text/javascript" ></script>
-        </Helmet>
       </div>
 
     </Layout>
