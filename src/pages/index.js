@@ -19,7 +19,7 @@ const Index =(props)=> {
      <Container>
      <Row className="pt-5">
      <h1 className={styles.title}>Why opt for our javascript development service?</h1>
-     <StaticImage src='../images/shape.png' alt='logo' className={styles.shape}/>
+     <StaticImage src='../images/Shape.png' alt='logo' className={styles.shape}/>
      
      </Row>
      <Row className="mt-3" style={{
