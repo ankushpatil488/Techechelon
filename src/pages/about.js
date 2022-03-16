@@ -12,12 +12,12 @@ import developer from '../images/developer.png';
 import finance from '../images/finance.png';
 import flag from '../images/flag.png';
 import image1 from '../images/image1.png';
-import bitmap1 from '../images/bitmap1.png';
-import bitmap2 from '../images/bitmap2.png';
-import bitmap3 from '../images/bitmap3.png';
+import bitmap1 from '../images/Bitmap1.png';
+import bitmap2 from '../images/Bitmap2.png';
+import bitmap3 from '../images/Bitmap3.png';
 import image5 from '../images/image5.png';
 // import logo from '../images/logo.png';
-import shape from '../images/shape.png';
+import shape from '../images/Shape.png';
 import vp from '../images/vp.png';
 
 import Layout from '../components/layout';
